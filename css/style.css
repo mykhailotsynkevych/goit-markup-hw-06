@@ -962,6 +962,7 @@ form .form-lable + .form-lable {
   border-color: transparent;
   background-color: var(--accent-color);
   background-image: url(../images/Vector1.svg);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
   background-origin: border-box;
